@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Official website for Statefully fidgeting
+          Official website of Statefully fidgeting™
         </p>
 
       </header>
